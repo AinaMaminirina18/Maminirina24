@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on [Stage](https://github.com/Maminirina24/Stage)
-- 🌱 I’m currently learning ReactNative
+- 🌱 I’m currently learning ReactNative and MongoDB
 - 📫 How to reach me: [maminirinaandria17@gmail.com](maminirinaandria17@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
